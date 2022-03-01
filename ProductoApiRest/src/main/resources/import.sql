@@ -1,0 +1,1 @@
+INSERT INTO productos (codigo,cantidad,precio,tipo,marca,descripcion,fecha_ingreso) VALUES ("adasd",333,3333.4,"mercancia","fff","loremlorem","2022-03-01");
